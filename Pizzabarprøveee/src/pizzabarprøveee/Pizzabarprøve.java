@@ -19,7 +19,7 @@ public class Pizzabarprøve {
                 + "\n9 Med tomat, ost, kylling, løg og paprika"
                 + "\n10 Med tomat, ost, kebab og løg"                
                 + "\n11 Med tomat, ost, skinke og ananas"
-                + "\n12 Med tomat, ost, skinke og pepperoni"
+                + "\n12 Med tomat, ost, skinke og pepperoni" 
                 + "\n13 Med tomat, ost, skinke og bacon"
                 + "\n14 Med tomat, ost, parmaskinke, rucolasalat og pesto"
                 + "\n15 Med tomat, ost, skinke og cocktailpølser"
